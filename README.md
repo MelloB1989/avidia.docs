@@ -37,6 +37,22 @@ This document provides an overview of a cutting-edge cloud platform designed spe
 - **Practice Labs**: Virtual lab environments where students can gain hands-on experience.
 - **AI Mentors**: AI-driven assistance for personalized learning guidance and support.
 
+## Platform Interfaces
+### Main Dashboard
+![Main Dashboard](images/image7.jpeg)
+### Home Page
+![Home Page](images/image6.jpeg)
+### Launch Flask Interface
+![Launch Flask Interface](images/image5.jpeg)
+### Access Flask
+![Access Flask](images/image1.jpeg)
+### Demo 1
+![Demo 1](images/image2.jpeg)
+### Demo 2
+![Demo 2](images/image3.jpeg)
+### Demo 3
+![Demo 3](images/image4.jpeg)
+
 ## Conclusion
 
 This cloud platform represents a comprehensive solution for educational environments, blending modern technologies with essential learning tools. It provides a robust, scalable infrastructure for accessing a wide range of software directly from the web, alongside features that enhance teaching and learning experiences. Through its innovative use of AWS services and cutting-edge technologies, the platform is poised to revolutionize how students and educators interact with digital resources.

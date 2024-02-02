@@ -1,8 +1,4 @@
-Certainly, I'll provide you with a brief overview document in Markdown format that explains the features of your cloud platform and the technologies used in its implementation. This document is designed to give a concise yet comprehensive look at how your platform functions, focusing on the key technologies and features that set it apart.
-
----
-
-# Cloud Platform for Students - Overview
+# Avidia - Overview
 
 ## Introduction
 
